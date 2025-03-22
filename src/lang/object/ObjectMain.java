@@ -1,4 +1,4 @@
-package src.lang.object;
+package lang.object;
 
 /**
  * 자바에서의 모든 클래스는 Object 클래스를 상속받는다.
@@ -13,6 +13,7 @@ public class ObjectMain {
         child.parentMethod();
 
         // Object 클래스의 toString() 메서드를 호출한다.
+        // toString()dms Object 클래스의 메서드이다.
         String string = child.toString();
         System.out.println("string = " + string);
     }

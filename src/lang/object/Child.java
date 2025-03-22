@@ -1,4 +1,4 @@
-package src.lang.object;
+package lang.object;
 
 public class Child extends Parent{
 

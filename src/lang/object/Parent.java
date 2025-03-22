@@ -1,6 +1,6 @@
-package src.lang.object;
+package lang.object;
 
-// 부모가 없으면 Object 클래스를 상속받는다.
+// 부모가 없으면 묵시적으로 Object 클래스를 상속받는다.
 public class Parent extends Object { // extends Object 생략 가능합니다. 컴파일러가 자동으로 추가합니다.
 
     public void parentMethod(){

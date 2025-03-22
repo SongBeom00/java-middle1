@@ -1,4 +1,4 @@
-package src.lang;
+package lang;
 
 import java.lang.System; // import java.lang.*; 는 생략 가능하다.
 
